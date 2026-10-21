@@ -7,13 +7,29 @@
 
 Welcome to the official portfolio repository of **Mayank Singh Sadudia** — Data Analyst, Graphic Designer, and Generative AI Creator based in Indore, India.
 
-🌐 **Live Website URL**: [https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/)
+🌐 **Live Website URL**: [https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/)  
+🏢 **Interactive 3D Virtual Office**: [https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/isometric-office.html](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/isometric-office.html)
+
+---
+
+## 🎬 AI Presenter & Hero Experience
+
+<p align="center">
+  <video src="https://github.com/Mayanksinghsadudia/mayanksinghsadudiaportfolio/raw/main/assets/Mayank_Continuous_AI_No_Gemini_Logo.mp4" controls="controls" width="100%" style="max-width: 680px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <a href="https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/">
+      <img src="assets/mayank_home_intro_poster.jpg" alt="Mayank AI Presenter" width="100%" style="max-width: 680px; border-radius: 12px;">
+    </a>
+  </video>
+  <br>
+  <em>✨ Ultra-clean AI Presenter Introduction (continuous flow, zero watermark, crystal-clear audio).</em>
+</p>
 
 ---
 
 ## 🌟 Key Highlights
 
-- **Interactive 3D Presenter Studio**: Custom cinematic 3D workstation introduction showcasing dual analytical and creative expertise.
+- **Continuous AI Presenter Studio**: Watermark-free, high-definition AI presenter introduction introducing Mayank's dual expertise in Data Analytics and Creative Design.
+- **Interactive 3D Multi-Department Office**: An interactive isometric corporate center with reception desk, seated receptionist Priya, active staff animations, glass cabins with doors, bespoke department logos, and HOD briefings.
 - **3D Curved Cylindrical Slider (35 Projects)**: Dribbble-inspired panoramic 3D card carousel featuring touch swipe, mouse drag, inertia snapping, and neon amber glowing UI.
 - **Data Analytics & Engineering Case Studies**:
   - **Amazon Review Sentiment Analysis**: VADER NLP pipeline classifying customer feedback with live interactive charts.
@@ -43,13 +59,17 @@ Welcome to the official portfolio repository of **Mayank Singh Sadudia** — Dat
 
 ```
 mayanksinghsadudiaportfolio/
-├── index.html                    # Main portfolio entry point
+├── index.html                    # Main portfolio entry point (Hero AI Presenter + Curved 3D Slider)
+├── isometric-office.html         # Interactive 3D Multi-Department Virtual Office
+├── isometric-office.css          # Glass cabins, ergonomic workstations & staff animation styling
+├── isometric-office.js           # Receptionist Priya AI, customer navigation & HOD briefings
 ├── styles.css                    # Base styling & responsive layout
 ├── neon-studio.css               # Signature Ember & Neon Amber theme
 ├── portfolio-theme.css           # Header & typography design system
 ├── curved-slider.css             # 3D Curved Cylindrical Slider styling
 ├── curved-slider.js              # 3D Math, Pointer Drag & Autoplay Engine
-├── presenter.css & presenter.js  # 3D Studio Presenter integration
+├── presenter.css & presenter.js  # AI Presenter controls, floating frame & sound toggle
+├── presenter-config.js           # Video source configuration (Mayank_Continuous_AI_No_Gemini_Logo.mp4)
 ├── amazon-sentiment-analysis.html# Amazon VADER NLP Case Study
 ├── retail-analysis.html          # Retail 541k transactions Case Study
 ├── cms-analysis.html             # Customer Management SQLite Study
