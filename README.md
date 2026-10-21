@@ -7,8 +7,7 @@
 
 Welcome to the official portfolio repository of **Mayank Singh Sadudia** — Data Analyst, Graphic Designer, and Generative AI Creator based in Indore, India.
 
-🌐 **Live Website URL**: [https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/)  
-🏢 **Interactive 3D Virtual Office**: [https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/isometric-office.html](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/isometric-office.html)
+🌐 **Live Website URL**: [https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/](https://mayanksinghsadudia.github.io/mayanksinghsadudiaportfolio/)
 
 ---
 
@@ -29,7 +28,6 @@ Welcome to the official portfolio repository of **Mayank Singh Sadudia** — Dat
 ## 🌟 Key Highlights
 
 - **Continuous AI Presenter Studio**: Watermark-free, high-definition AI presenter introduction introducing Mayank's dual expertise in Data Analytics and Creative Design.
-- **Interactive 3D Multi-Department Office**: An interactive isometric corporate center with reception desk, seated receptionist Priya, active staff animations, glass cabins with doors, bespoke department logos, and HOD briefings.
 - **3D Curved Cylindrical Slider (35 Projects)**: Dribbble-inspired panoramic 3D card carousel featuring touch swipe, mouse drag, inertia snapping, and neon amber glowing UI.
 - **Data Analytics & Engineering Case Studies**:
   - **Amazon Review Sentiment Analysis**: VADER NLP pipeline classifying customer feedback with live interactive charts.
@@ -60,9 +58,6 @@ Welcome to the official portfolio repository of **Mayank Singh Sadudia** — Dat
 ```
 mayanksinghsadudiaportfolio/
 ├── index.html                    # Main portfolio entry point (Hero AI Presenter + Curved 3D Slider)
-├── isometric-office.html         # Interactive 3D Multi-Department Virtual Office
-├── isometric-office.css          # Glass cabins, ergonomic workstations & staff animation styling
-├── isometric-office.js           # Receptionist Priya AI, customer navigation & HOD briefings
 ├── styles.css                    # Base styling & responsive layout
 ├── neon-studio.css               # Signature Ember & Neon Amber theme
 ├── portfolio-theme.css           # Header & typography design system
